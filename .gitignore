@@ -1,0 +1,4 @@
+# runtime artefacts — created by run_menu.py on each run
+control.json
+session_*.jsonl
+__pycache__/
